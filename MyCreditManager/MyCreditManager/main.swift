@@ -1,5 +1,6 @@
 import Foundation
 
+// 시작화면
 class Start {
     func main() {
         
